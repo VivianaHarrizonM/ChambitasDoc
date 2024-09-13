@@ -1,0 +1,26 @@
+.home-container {
+  background-color: #01cafc; 
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 4.45rem;
+}
+
+.custom-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.custom-text {
+  text-align: left;
+  color: #343a40;
+}
+
+.display-4 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.lead {
+  font-size: 1.5rem;
+}
